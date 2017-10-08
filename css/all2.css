@@ -3,11 +3,11 @@ div {
 }
 
 .textbox {
-	padding: 0px 0px 0px 0px;
-	height: 235px;
-	width: 369px;
+	padding: 50px 0px 0px 0px;
+	height: 550px;
+	width: 970px;
 	background:none;
-	text-align:justify;
+	text-align:center;
 	font-size:24;
 	line-height:180%;
 	color:#EDEBEB;
@@ -15,4 +15,5 @@ div {
 	border:none;
 	resize:none;
 	overflow:auto;
+	margin:0px auto;
 }
