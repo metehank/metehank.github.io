@@ -1,0 +1,18 @@
+div {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.textbox {
+	padding: 0px 0px 0px 0px;
+	height: 235px;
+	width: 369px;
+	background:none;
+	text-align:justify;
+	font-size:24;
+	line-height:180%;
+	color:#EDEBEB;
+	outline:none;
+	border:none;
+	resize:none;
+	overflow:auto;
+}
