@@ -2,15 +2,15 @@ div {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-.textbox {
-	padding: 50px 0px 0px 0px;
-	height: 550px;
-	width: 970px;
+.textbox2 {
+	padding: 50px 0px 0px 120px;
+	height: 418px;
+	width: 850px;
 	background:none;
-	text-align:center;
-	font-size:24;
+	text-align:justify;
+	font-size:18;
 	line-height:180%;
-	color:#EDEBEB;
+	color:#000000;
 	outline:none;
 	border:none;
 	resize:none;
